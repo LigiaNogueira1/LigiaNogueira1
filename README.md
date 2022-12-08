@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hey! Welcome to my GitHub!
 
-<!--
-**LigiaNogueira1/LigiaNogueira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I’m currently working with customer support
+- 📚 I’m currently learning Python | Java | SQL | Spring boot | Shell Script | SAP
+- 📊 I’m looking to collaborate on technology companies
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/ligianogueira1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ligianogueira1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ligianogueira1&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+ <div style="display: inline_block"><br>
+  <img align="center" alt="ligia-py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="ligia-jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="ligia-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="ligia-sb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="right" alt=ligia-gif height="140" width="140" src="<img class="aQG aYB" id=":tq" src="">
+</div>
+  
+ ##
+  
+<div> 
+  <a href="https://instagram.com/ligianogueiraa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "ligiatht@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/anna-ligia-alves-nogueira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
