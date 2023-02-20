@@ -1,7 +1,7 @@
 ### **Hey! Welcome to my GitHub!**
 
 - 💻 I’m currently working with customer support
-- 📚 I’m currently learning Python | Java | SQL | Spring boot | Shell Script | SAP
+- 📚 I’m currently learning Python | Java | SAP
 - 📊 I’m looking to collaborate on technology companies
 
 <div align="center">
