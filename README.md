@@ -1,7 +1,8 @@
 ### **Hey! Welcome to my GitHub!**
 
-- 💻 I’m currently working with customer support
-- 📚 I’m currently learning Python | Java | SAP
+- 💻 I’m currently working Mobile Applications and Back-End Programming
+- 🎓 I-m a graduate student in Computer Engineering - IFPB
+- 📚 I’m currently learning Python | HTML | CSS | JavaScript
 - 📊 I’m looking to collaborate on technology companies
 
 <div align="center">
