@@ -28,3 +28,14 @@ You can contact me through:
   <img align="center" alt="ligia-sb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="right" alt="ligia-gif" height="150" src="https://media.discordapp.net/attachments/989981349777637446/1050495182451245096/07eee80b4654fe504719bc0b238e6121_1_2.gif">
 </div>
+
+## **Tech Stack**
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="ligia-py" height="30" width="40" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+  <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="ligia-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="ligia-sb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="right" alt="ligia-gif" height="150" src="https://media.discordapp.net/attachments/989981349777637446/1050495182451245096/07eee80b4654fe504719bc0b238e6121_1_2.gif">
+</div>
+
