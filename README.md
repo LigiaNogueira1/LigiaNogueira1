@@ -7,7 +7,7 @@
 - 📚 In this moment, my strongest Hard Skills are: Python | HTML | CSS | JavaScript
 - 📊 I’m looking to collaborate on technology companies
 
-style="text-align:center">You can contact me through:
+You can contact me through:
 
 <div> 
   <a href="https://api.whatsapp.com/send/?phone=5583986661114&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
