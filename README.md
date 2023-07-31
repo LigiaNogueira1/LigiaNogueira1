@@ -1,13 +1,11 @@
 # **Hey, I'm Lígia! Welcome to my GitHub!**
 
-### About me
+### *About me
 
-<div> 
 - 🎓 I'm a graduate student in Computer Engineering - IFPB
 - 💻 Currently working Mobile Applications and Back-End Programming
 - 📚 In this moment, my strongest Hard Skills are: Python | HTML | CSS | JavaScript
 - 📊 I’m looking to collaborate on technology companies
-</div>
 
 - You can contact me through:
 
