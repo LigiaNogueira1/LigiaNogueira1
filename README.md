@@ -1,6 +1,8 @@
 # **Hey, I'm Lígia! Welcome to my GitHub!**
 
-## **	:woman_technologist: About me**
+<a href="https://imgbox.com/3tZuCnVg" target="_blank"><img src="https://images2.imgbox.com/42/88/3tZuCnVg_o.png" alt="image host" height="5px" width="900px"/></a>
+
+## **:woman_technologist: About me**
 
 - 🎓 I'm a graduate student in Computer Engineering - IFPB
 - 💻 Currently working Mobile Applications and Back-End Programming
@@ -15,6 +17,8 @@ You can contact me through:
   <a href="https://www.linkedin.com/in/anna-ligia-alves-nogueira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<a href="https://imgbox.com/3tZuCnVg" target="_blank"><img src="https://images2.imgbox.com/42/88/3tZuCnVg_o.png" alt="image host" height="5px" width="900px"/></a>
+
 ## **:hammer_and_wrench: Tech Stack**
 
 <div style="display: inline_block"><br>
@@ -24,6 +28,8 @@ You can contact me through:
   <img align="center" alt="ligia-sb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="right" alt="ligia-gif" height="150" src="https://media.discordapp.net/attachments/989981349777637446/1050495182451245096/07eee80b4654fe504719bc0b238e6121_1_2.gif">
 </div>
+
+<a href="https://imgbox.com/3tZuCnVg" target="_blank"><img src="https://images2.imgbox.com/42/88/3tZuCnVg_o.png" alt="image host" height="5px" width="900px"/></a>
 
 ## **:octocat: GitHub Stats**
 <div align="center">
