@@ -1,6 +1,6 @@
 # **Hey, I'm Lígia! Welcome to my GitHub!**
 
-# **About me**
+## **About me**
 
 - 🎓 I'm a graduate student in Computer Engineering - IFPB
 - 💻 Currently working Mobile Applications and Back-End Programming
