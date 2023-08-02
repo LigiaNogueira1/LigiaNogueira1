@@ -7,7 +7,7 @@
 <br>
 </br>
 <p align="center"> 
-<a href="" target="_blank"><img src="https://camo.githubusercontent.com/92b406742484961df85585a2624ca87c4da03814428bed001e34404cb9de054b/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65372f32362f63372f65373236633734616330383165656435306665656531343333643132633939382e676966" alt="image host" height="142px"/></a>
+<a href="" target="_blank"><img src="https://usagif.com/wp-content/uploads/cat-typing-24.gif" alt="image host" height="142px"/></a>
 </p>
 
 - 🎓 I'm a graduate student in Computer Engineering - IFPB
