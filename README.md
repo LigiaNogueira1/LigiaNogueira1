@@ -10,7 +10,7 @@
 <a href="" target="_blank"><img src="https://usagif.com/wp-content/uploads/cat-typing-24.gif" alt="image host" height="142px"/></a>
 </p>
 
-- 🎓 I'm a graduate student in Computer Engineering - IFPB;
+- 🎓 I'm a undergraduate in Computer Engineering - IFPB;
 - 💻 Currently working Mobile Applications and Back-End Programming;
 - 📚 In this moment, my strongest Hard Skills are: Python | HTML | CSS | JavaScript;
 - 📊 I’m looking to collaborate on technology companies.
